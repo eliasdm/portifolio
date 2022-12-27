@@ -4,11 +4,11 @@
 <img src="./images/login.png" alt="portifólio"> <img src="./images/form.png" alt="portifólio">
 
 
->Project Done with  em:
+>Project Done by Elias Demlie
 
-- [x] Criação do HTML
-- [x] Criação do CSS
-- [x] Criação do JavaScript
+- [x]  do HTML
+- [x]  do CSS
+- [x]  do JavaScript
 
 Check me Here: https://github.com/eliasdm
 
